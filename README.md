@@ -1,5 +1,6 @@
 # laundry management system
 // Aquest és un canvi a la branca featureSM
+// Aquest és un altre canvi a la branca develop
 
 ---
 ## Using Tech:
